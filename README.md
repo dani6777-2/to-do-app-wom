@@ -317,10 +317,3 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [`LICENSE`](LICENSE) pa
 ## 👥 Autores
 
 - Daniel Morales - Desarrollador Principal
-
-## 📞 Soporte
-
-Si tienes alguna pregunta o sugerencia:
-- 📧 Email: tu-email@example.com
-- 🐛 [Reportar un bug](https://github.com/tu-usuario/to-do-app-wom/issues)
-- 💡 [Solicitar una feature](https://github.com/tu-usuario/to-do-app-wom/issues) 
